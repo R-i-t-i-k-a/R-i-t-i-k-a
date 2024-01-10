@@ -3,15 +3,14 @@
 <h3 align="center">A Tech and Art Enthusiast</h3>
 <img align="right" width="35%" alt="Coding" src="https://i.pinimg.com/564x/8e/87/47/8e874766f38990b0bac3bef255847c53.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-i-t-i-k-a&label=Profile%20views&color=0e75b6&style=flat" alt="r-i-t-i-k-a" /> </p>
 
-- 🔭 Currently working on **Google Keep Clone**
+- 🔭 Currently working on **Getting Proficient In MERN Stack**
 
 - 🌱 Learning **React.js**
 
 - 👯 Looking to collaborate on **Web development projects**
 
-- 💬 Ask me about **Html, CSS, JS, Express, EJS, MongoDB**
+- 💬 Ask me about **Web Development, Designing, CPP, and DSA**
 
 - 📫 How to reach me **ritikadadwal21@gmail.com**
 
